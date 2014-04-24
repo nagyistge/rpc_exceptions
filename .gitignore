@@ -1,0 +1,21 @@
+*.py[cod]
+
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+develop-eggs
+.installed.cfg
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+*~
+.DS_Store
+*.swp
+
+MANIFEST
