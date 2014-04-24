@@ -1,5 +1,5 @@
 from functools import wraps
-from jsonrpclib import Fault
+from .base_exceptions import Fault
 
 class RPCExceptionHandler(object):
     def __init__(self, exceptions):

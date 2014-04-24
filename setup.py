@@ -10,6 +10,5 @@ setup(
     license='3-BSD',
     description='RPC Exceptions',
     long_description=open('./README.md').read(),
-    install_requires= ['jsonrpclib >= 0.1.3']
 )
 
