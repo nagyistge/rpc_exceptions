@@ -9,6 +9,6 @@ setup(
     url='https://github.com/axialmarket/rpc_exceptions',
     license='3-BSD',
     description='RPC Exceptions',
-    long_description=open('./README.md').read(),
+    long_description=open('./README.rst').read(),
 )
 
