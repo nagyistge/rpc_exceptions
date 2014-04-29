@@ -66,6 +66,7 @@ Decorate exposed functions with the instantiated RPCExceptionHandler's wrap_rpc_
 Coerce error codes and messages to exceptions  the instantiated RPCExceptionHandler's get_exception_instance method:
 
 ::
+
     #client using tinyrpc
     from wrapped_rpc.exceptions import error_handler, PEBCAKError, FUBARError
     from tinyrpc import RPCClient, RPCError
