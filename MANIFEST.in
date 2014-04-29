@@ -1,0 +1,3 @@
+include rpc_exceptions/*.py
+include *.rst
+include *.txt
